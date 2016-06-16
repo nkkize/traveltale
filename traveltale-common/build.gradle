@@ -1,0 +1,4 @@
+description = 'traveltale-common'
+dependencies {
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter', version:'1.2.6.RELEASE'
+}

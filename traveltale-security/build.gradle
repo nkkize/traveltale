@@ -1,0 +1,5 @@
+description = 'traveltale-security'
+dependencies {
+  compile group: 'org.springframework.boot', name: 'spring-boot-starter-security', version:'1.2.6.RELEASE'
+  compile project(':traveltale-service')
+}
